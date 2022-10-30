@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233114,
+    "slug": "verstappen-geniet-van-recordzege-in-mexico-het-is-een-ongelooflijk-jaar",
+    "type": "article",
+    "title": "Verstappen geniet van recordzege in Mexico: 'Het is een ongelooflijk jaar'",
+    "subtitle": null,
+    "published_at": "2022-10-30T23:35:31+01:00",
+    "updated_at": "2022-10-30T23:35:32+01:00",
+    "media_id": "u0gxj7rapxac",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6233114/verstappen-geniet-van-recordzege-in-mexico-het-is-een-ongelooflijk-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233112,
     "slug": "van-bommel-lijdt-opnieuw-competitienederlaag-met-royal-antwerp",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6233067/weghorst-scoort-twee-keer-bij-zege-besiktas-trainer-veldman-wint-met-anderlecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233069,
-    "slug": "rashford-kopt-united-naar-vijfde-plek-koploper-arsenal-boekt-klinkende-zege",
-    "type": "article",
-    "title": "Rashford kopt United naar vijfde plek, koploper Arsenal boekt klinkende zege",
-    "subtitle": null,
-    "published_at": "2022-10-30T17:02:02+01:00",
-    "updated_at": "2022-10-30T19:20:25+01:00",
-    "media_id": "5moxre2aoc3o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233069/rashford-kopt-united-naar-vijfde-plek-koploper-arsenal-boekt-klinkende-zege.html",
     "open_new_window": false,
     "partner": null
   }
