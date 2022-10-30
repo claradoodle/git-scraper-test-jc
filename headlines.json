@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232977,
+    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-10-30T06:27:33+01:00",
+    "updated_at": "2022-10-30T06:27:34+01:00",
+    "media_id": "q90x8w2aq9up",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6232977/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232666,
     "slug": "na-zeventien-jaar-gesteggel-stroomt-er-eindelijk-water-de-hedwigepolder-in",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6232964/barcelona-ontsnapt-dankzij-late-goal-lewandowski-en-staat-weer-even-naast-real.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232961,
-    "slug": "verstappen-verslaat-mercedes-coureurs-en-pakt-pole-voor-gp-mexico",
-    "type": "article",
-    "title": "Verstappen verslaat Mercedes-coureurs en pakt pole voor GP Mexico",
-    "subtitle": null,
-    "published_at": "2022-10-29T23:03:46+02:00",
-    "updated_at": "2022-10-30T01:01:14+02:00",
-    "media_id": "11lxg5kaofuw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6232961/verstappen-verslaat-mercedes-coureurs-en-pakt-pole-voor-gp-mexico.html",
     "open_new_window": false,
     "partner": null
   }
