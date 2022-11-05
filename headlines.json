@@ -1,12 +1,35 @@
 [
   {
-    "id": 6234336,
-    "slug": "manchester-city-ontsnapt-door-late-penalty-haaland-aan-puntenverlies-tegen-fulham",
+    "id": 6234337,
+    "slug": "de-munck-visser-en-veerman-grijpen-naast-medailles-op-wk-turnen",
     "type": "article",
-    "title": "Manchester City ontsnapt door late penalty Haaland aan puntenverlies tegen Fulham",
+    "title": "De Munck, Visser en Veerman grijpen naast medailles op WK turnen",
+    "subtitle": null,
+    "published_at": "2022-11-05T18:28:31+01:00",
+    "updated_at": "2022-11-05T18:28:32+01:00",
+    "media_id": "62gxhtraywps",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6234337/de-munck-visser-en-veerman-grijpen-naast-medailles-op-wk-turnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234336,
+    "slug": "invaller-haaland-redt-manchester-city-tegen-fulham-summerville-scoort-weer",
+    "type": "article",
+    "title": "Invaller Haaland redt Manchester City tegen Fulham, Summerville scoort weer",
     "subtitle": null,
     "published_at": "2022-11-05T18:09:02+01:00",
-    "updated_at": "2022-11-05T18:09:03+01:00",
+    "updated_at": "2022-11-05T18:25:55+01:00",
     "media_id": "znxxn07ao6kx",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234336/manchester-city-ontsnapt-door-late-penalty-haaland-aan-puntenverlies-tegen-fulham.html",
+    "url": "/voetbal/6234336/invaller-haaland-redt-manchester-city-tegen-fulham-summerville-scoort-weer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +75,8 @@
     "title": "Twee doden en twee gewonden na steekpartij in psychiatrische kliniek in Balkbrug",
     "subtitle": null,
     "published_at": "2022-11-05T17:49:39+01:00",
-    "updated_at": "2022-11-05T18:13:11+01:00",
-    "media_id": "5q0xe8wa87hy",
+    "updated_at": "2022-11-05T18:27:21+01:00",
+    "media_id": "aw7x00habrvs",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -75,7 +98,7 @@
     "title": "Bayern zonder De Ligt nipt te sterk voor Hertha, Malen wint ruim met Dortmund",
     "subtitle": null,
     "published_at": "2022-11-05T17:45:13+01:00",
-    "updated_at": "2022-11-05T18:16:25+01:00",
+    "updated_at": "2022-11-05T18:26:05+01:00",
     "media_id": "2zjxowkaasbd",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6234317,
-    "slug": "vitesse-stevent-af-op-negende-thuisverlies-van-2022",
+    "slug": "sparta-op-weg-naar-eclatante-zege-op-bezoek-bij-vitesse",
     "type": "article",
-    "title": "Vitesse stevent af op negende thuisverlies van 2022",
+    "title": "Sparta op weg naar eclatante zege op bezoek bij Vitesse",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-11-05T16:11:04+01:00",
-    "updated_at": "2022-11-05T18:11:54+01:00",
+    "updated_at": "2022-11-05T18:22:26+01:00",
     "media_id": "lkzxj55ay6t3",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234317/vitesse-stevent-af-op-negende-thuisverlies-van-2022.html",
+    "url": "/voetbal/6234317/sparta-op-weg-naar-eclatante-zege-op-bezoek-bij-vitesse.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6234310/klimaatactivisten-blokkeren-privejets-op-schiphol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234307,
-    "slug": "zuid-koreanen-houden-wake-voor-slachtoffers-halloweenfeest-seoel",
-    "type": "video",
-    "title": "Zuid-Koreanen houden wake voor slachtoffers halloweenfeest Seoel",
-    "subtitle": "Video",
-    "published_at": "2022-11-05T13:38:39+01:00",
-    "updated_at": "2022-11-05T13:38:40+01:00",
-    "media_id": "qnzxm2mab21s",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6234307/zuid-koreanen-houden-wake-voor-slachtoffers-halloweenfeest-seoel.html",
     "open_new_window": false,
     "partner": null
   }
