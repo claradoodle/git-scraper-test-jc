@@ -1,12 +1,35 @@
 [
   {
+    "id": 6236262,
+    "slug": "nederlands-elftal-stapt-op-vliegtuig-naar-qatar",
+    "type": "article",
+    "title": "Nederlands elftal stapt op vliegtuig naar Qatar",
+    "subtitle": "In beeld",
+    "published_at": "2022-11-15T11:43:41+01:00",
+    "updated_at": "2022-11-15T11:43:42+01:00",
+    "media_id": "1plx4cban1so",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6236262/nederlands-elftal-stapt-op-vliegtuig-naar-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236246,
     "slug": "bayern-munchen-met-meeste-spelers-naar-qatar-van-gaal-oudste-wk-bondscoach",
     "type": "article",
     "title": "Bayern München met meeste spelers naar Qatar, Van Gaal oudste WK-bondscoach",
     "subtitle": null,
     "published_at": "2022-11-15T11:36:56+01:00",
-    "updated_at": "2022-11-15T11:37:10+01:00",
+    "updated_at": "2022-11-15T11:39:26+01:00",
     "media_id": "5evxki3ai6hm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6236199/marieke-elsinga-is-bevallen-van-een-zoon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236194,
-    "slug": "zo-verliep-de-laatste-training-van-oranje-op-nederlandse-bodem",
-    "type": "video",
-    "title": "Zo verliep de laatste training van Oranje op Nederlandse bodem",
-    "subtitle": "Video",
-    "published_at": "2022-11-15T08:09:24+01:00",
-    "updated_at": "2022-11-15T08:09:55+01:00",
-    "media_id": "mgcxmgpa6xa2",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6236194/zo-verliep-de-laatste-training-van-oranje-op-nederlandse-bodem.html",
     "open_new_window": false,
     "partner": null
   }
