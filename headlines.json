@@ -1,12 +1,35 @@
 [
   {
+    "id": 6240693,
+    "slug": "djokovic-speelt-bij-terugkeer-op-australische-bodem-eerst-toernooi-in-adelaide",
+    "type": "article",
+    "title": "Djokovic speelt bij terugkeer op Australische bodem eerst toernooi in Adelaide",
+    "subtitle": null,
+    "published_at": "2022-12-07T08:14:35+01:00",
+    "updated_at": "2022-12-07T08:14:36+01:00",
+    "media_id": "2fqx5kwalhgj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6240693/djokovic-speelt-bij-terugkeer-op-australische-bodem-eerst-toernooi-in-adelaide.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240688,
     "slug": "apple-geeft-appmakers-meer-keuze-in-verkoopprijzen-voor-apps-en-abonnementen",
     "type": "article",
     "title": "Apple geeft appmakers meer keuze in verkoopprijzen voor apps en abonnementen",
     "subtitle": null,
     "published_at": "2022-12-07T07:56:31+01:00",
-    "updated_at": "2022-12-07T07:56:33+01:00",
+    "updated_at": "2022-12-07T08:17:15+01:00",
     "media_id": "k2txv1xar63q",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "China versoepelt coronamaatregelen na protesten, maar beleid blijft streng",
     "subtitle": null,
     "published_at": "2022-12-07T07:53:46+01:00",
-    "updated_at": "2022-12-07T08:00:29+01:00",
+    "updated_at": "2022-12-07T08:22:50+01:00",
     "media_id": "nozxk82auqeh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6240659/fans-marokko-verlaten-feestend-stadion-in-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240636,
-    "slug": "politie-wist-beelden-van-camera-persfotograaf-vakbond-nvj-huurt-advocaat-in",
-    "type": "article",
-    "title": "Politie wist beelden van camera persfotograaf, vakbond NVJ huurt advocaat in",
-    "subtitle": null,
-    "published_at": "2022-12-06T21:09:44+01:00",
-    "updated_at": "2022-12-06T21:09:46+01:00",
-    "media_id": "w51xr1ha0qef",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6240636/politie-wist-beelden-van-camera-persfotograaf-vakbond-nvj-huurt-advocaat-in.html",
     "open_new_window": false,
     "partner": null
   }
