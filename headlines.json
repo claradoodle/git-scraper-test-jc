@@ -6,7 +6,7 @@
     "title": "Duitsland ziet extremisme toenemen en kondigt strengere wapenwet aan",
     "subtitle": null,
     "published_at": "2022-12-11T14:56:33+01:00",
-    "updated_at": "2022-12-11T14:56:34+01:00",
+    "updated_at": "2022-12-11T15:08:40+01:00",
     "media_id": "xssxg59aqbq6",
     "duration": null,
     "canonical_section": {
@@ -23,36 +23,13 @@
     "partner": null
   },
   {
-    "id": 6241529,
-    "slug": "boufal-viert-wk-overwinning-met-zijn-moeder",
-    "type": "video",
-    "title": "Boufal viert WK-overwinning met zijn moeder",
-    "subtitle": "Video",
-    "published_at": "2022-12-11T14:53:57+01:00",
-    "updated_at": "2022-12-11T14:53:57+01:00",
-    "media_id": "i94xsfgat7vi",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6241529/boufal-viert-wk-overwinning-met-zijn-moeder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6241522,
     "slug": "van-empel-zegeviert-ondanks-maagproblemen-in-winterse-wereldbeker-dublin",
     "type": "article",
     "title": "Van Empel zegeviert ondanks maagproblemen in winterse wereldbeker Dublin",
     "subtitle": null,
     "published_at": "2022-12-11T14:48:29+01:00",
-    "updated_at": "2022-12-11T15:00:45+01:00",
+    "updated_at": "2022-12-11T15:14:16+01:00",
     "media_id": "988xw2zadhrb",
     "duration": null,
     "canonical_section": {
@@ -121,7 +98,7 @@
     "title": "NAC slaat na rust tweemaal toe en verslaat Willem II in Brabantse derby",
     "subtitle": null,
     "published_at": "2022-12-11T14:12:03+01:00",
-    "updated_at": "2022-12-11T14:43:02+01:00",
+    "updated_at": "2022-12-11T15:25:49+01:00",
     "media_id": "e8fx6eiaqnxr",
     "duration": null,
     "canonical_section": {
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/voetbal/6241501/gelukkige-deschamps-gaat-naar-verluidt-langer-door-bij-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241499,
+    "slug": "bloemen-boos-na-diskwalificatie-5000-meter-hoe-stil-kan-je-staan",
+    "type": "article",
+    "title": "Bloemen boos na diskwalificatie 5.000 meter: 'Hoe stil kan je staan?'",
+    "subtitle": null,
+    "published_at": "2022-12-11T10:07:41+01:00",
+    "updated_at": "2022-12-11T10:11:50+01:00",
+    "media_id": "ixhx6daa048w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6241499/bloemen-boos-na-diskwalificatie-5000-meter-hoe-stil-kan-je-staan.html",
     "open_new_window": false,
     "partner": null
   }
