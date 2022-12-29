@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244770,
+    "slug": "van-duijvenbode-treft-smith-van-gerwen-kijkt-geinteresseerd-mee",
+    "type": "article",
+    "title": "Van Duijvenbode treft Smith, Van Gerwen kijkt geïnteresseerd mee",
+    "subtitle": "Liveblog WK darts",
+    "published_at": "2022-12-29T13:39:01+01:00",
+    "updated_at": "2022-12-29T13:40:24+01:00",
+    "media_id": "7jmxarfanq96",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6244770/van-duijvenbode-treft-smith-van-gerwen-kijkt-geinteresseerd-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244768,
     "slug": "klantenlijst-leidt-politie-naar-grote-hoeveelheden-illegaal-vuurwerk",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6244725/onrust-na-arrestatie-prominente-oppositieleider-in-bolivia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244702,
-    "slug": "recensieoverzicht-living-is-aangrijpend-geestig-en-af-en-toe-bitter",
-    "type": "article",
-    "title": "Recensieoverzicht: 'Living is aangrijpend, geestig en af en toe bitter'",
-    "subtitle": null,
-    "published_at": "2022-12-29T09:55:53+01:00",
-    "updated_at": "2022-12-29T09:55:54+01:00",
-    "media_id": "f6wx8jea54p6",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6244702/recensieoverzicht-living-is-aangrijpend-geestig-en-af-en-toe-bitter.html",
     "open_new_window": false,
     "partner": null
   }
