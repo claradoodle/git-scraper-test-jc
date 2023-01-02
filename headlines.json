@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245414,
+    "slug": "belgie-gaat-afvalwater-van-vluchten-uit-china-testen-op-coronavarianten",
+    "type": "article",
+    "title": "België gaat afvalwater van vluchten uit China testen op coronavarianten",
+    "subtitle": null,
+    "published_at": "2023-01-02T20:13:01+01:00",
+    "updated_at": "2023-01-02T20:18:34+01:00",
+    "media_id": "as1xl1dadinc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6245414/belgie-gaat-afvalwater-van-vluchten-uit-china-testen-op-coronavarianten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245413,
     "slug": "aftellen-naar-halve-finales-in-alexandra-palace",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "Loterij niet gewonnen? Zo rijd je toch in een Aston Martin of Porsche",
     "subtitle": null,
     "published_at": "2023-01-02T17:11:12+01:00",
-    "updated_at": "2023-01-02T17:11:13+01:00",
+    "updated_at": "2023-01-02T20:12:43+01:00",
     "media_id": "120xnama2i6d",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6244739/apps-van-de-week-je-favoriete-contacten-sneller-vinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245393,
-    "slug": "tennislegende-martina-navratilova-heeft-borst-en-keelkanker",
-    "type": "article",
-    "title": "Tennislegende Martina Navrátilová heeft borst- en keelkanker",
-    "subtitle": null,
-    "published_at": "2023-01-02T15:46:40+01:00",
-    "updated_at": "2023-01-02T16:25:34+01:00",
-    "media_id": "l1qxhdfa55tw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6245393/tennislegende-martina-navratilova-heeft-borst-en-keelkanker.html",
     "open_new_window": false,
     "partner": null
   }
