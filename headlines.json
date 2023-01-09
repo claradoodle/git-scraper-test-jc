@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246231,
+    "slug": "zo-verliep-de-bestorming-van-de-braziliaanse-overheidsgebouwen",
+    "type": "article",
+    "title": "Zo verliep de bestorming van de Braziliaanse overheidsgebouwen",
+    "subtitle": null,
+    "published_at": "2023-01-09T11:44:06+01:00",
+    "updated_at": "2023-01-09T11:44:07+01:00",
+    "media_id": "pk0xerxal5nz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246231/zo-verliep-de-bestorming-van-de-braziliaanse-overheidsgebouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246237,
     "slug": "oekraiense-markt-in-puin-na-russische-raketaanval",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Tony's Chocolonely groeit hard, voornamelijk door populariteit in VS",
     "subtitle": null,
     "published_at": "2023-01-09T11:25:20+01:00",
-    "updated_at": "2023-01-09T11:25:22+01:00",
+    "updated_at": "2023-01-09T11:43:18+01:00",
     "media_id": "hudx433agbgm",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Thailand haalt na dag alweer streep door verplicht vaccinatiebewijs voor toeristen",
     "subtitle": null,
     "published_at": "2023-01-09T10:46:04+01:00",
-    "updated_at": "2023-01-09T11:31:52+01:00",
+    "updated_at": "2023-01-09T11:41:20+01:00",
     "media_id": "1hdxl5cae0xj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246199/vier-miljoen-kinderen-in-nood-na-overstromingen-in-pakistan-afgelopen-zomer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245964,
-    "slug": "waarom-het-dit-jaar-erg-druk-wordt-op-de-maan",
-    "type": "video",
-    "title": "Waarom het dit jaar erg druk wordt op de maan",
-    "subtitle": "Video",
-    "published_at": "2023-01-09T05:57:08+01:00",
-    "updated_at": "2023-01-09T11:00:02+01:00",
-    "media_id": "homxx4jaznat",
-    "duration": "1:46",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6245964/waarom-het-dit-jaar-erg-druk-wordt-op-de-maan.html",
     "open_new_window": false,
     "partner": null
   }
